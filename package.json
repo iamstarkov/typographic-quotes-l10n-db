@@ -1,0 +1,24 @@
+{
+  "name": "typographic-quotes-l10n-db",
+  "version": "0.0.0",
+  "description": "Raw data about typographic quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matmuchrapna/typographic-quotes-l10n-db"
+  },
+  "keywords": [
+    "typographic",
+    "quotes",
+    "db"
+  ],
+  "author": "Vladimir Starkov <matmuchrapna@gmail.com> (http://vstarkov.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmuchrapna/typographic-quotes-l10n-db/issues"
+  },
+  "homepage": "https://github.com/matmuchrapna/typographic-quotes-l10n-db"
+}

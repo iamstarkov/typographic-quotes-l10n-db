@@ -1,6 +1,6 @@
 {
   "name": "typographic-quotes-l10n-db",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Raw data about typographic quotes",
   "main": "index.js",
   "scripts": {

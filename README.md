@@ -39,13 +39,13 @@ quotesDB('sv');      // ””’’   Swedish
 
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [npm-url]: https://npmjs.org/package/typographic-quotes-l10n-db
 [npm-image]: http://img.shields.io/npm/v/typographic-quotes-l10n-db.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-quotes-l10n-db
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-quotes-l10n-db.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-quotes-l10n-db
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-quotes-l10n-db.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-quotes-l10n-db
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-quotes-l10n-db/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-quotes-l10n-db
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-quotes-l10n-db/dev-status.svg

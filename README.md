@@ -28,12 +28,12 @@ are primary quotes, second ones are secondary.
 ```js
 var quotesDB = require('typographic-quotes-l10n-db');
 
-quotesDB('zh-Hans'); // “”‘’   Chinese, simplified
-quotesDB('en-uk');   // ‘’“”   English, UK
-quotesDB('en-us');   // “”‘’   English, US; English, Canada
-quotesDB('ru');      // «»„“   Russian
-quotesDB('da');      // »«›‹   Danish
-quotesDB('sv');      // ””’’   Swedish
+quotesDB['zh-Hans']; // “”‘’   Chinese, simplified
+quotesDB['en-uk'];   // ‘’“”   English, UK
+quotesDB['en-us'];   // “”‘’   English, US; English, Canada
+quotesDB['ru'];      // «»„“   Russian
+quotesDB['da'];      // »«›‹   Danish
+quotesDB['sv'];      // ””’’   Swedish
 ```
 
 

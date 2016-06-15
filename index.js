@@ -13,17 +13,17 @@ module.exports = {
   'cs':      '„“‚‘',   // Czech
   'da':      '»«›‹',   // Danish
   'nl':      '‘’“”',   // Dutch
-  'en-uk':   '‘’“”',   // English, UK
-  'en-us':   '“”‘’',   // English, US; English, Canada
+  'en-GB':   '‘’“”',   // English, UK
+  'en-US':   '“”‘’',   // English, US; English, Canada
   'eo':      '“”‘’',   // Esperanto
   'et':      '„“«»',   // Estonian
   'fil':     '“”‘’',   // Filipino
   'fi':      '””’’',   // Finnish
   'fr':      '«»“”',   // French
-  'fr-sw':   '«»‹›',   // French, Swiss
+  'fr-CH':   '«»‹›',   // French, Swiss
   'ka':      '„““”',   // Georgian
   'de':      '„“‚‘',   // German
-  'de-sw':   '«»‹›',   // German, Swiss
+  'de-CH':   '«»‹›',   // German, Swiss
   'el':      '«»“”',   // Greek
   'he':      '""\'\'', // Hebrew
   'hu':      '„”»«',   // Hungarian
@@ -31,14 +31,14 @@ module.exports = {
   'id':      '“”‘’',   // Indonesian
   'ga':      '“”‘’',   // Irish
   'it':      '«»“”',   // Italian
-  'it-sw':   '«»‹›',   // Italian, Swiss
+  'it-CH':   '«»‹›',   // Italian, Swiss
   'ko':      '“”‘’',   // Korean
   'lv':      '«»„“',   // Latvian
   'mk':      '„“’‘',   // Macedonian
   'no':      '«»’’',   // Norwegian
   'pl':      '„”«»',   // Polish
-  'pt-br':   '“”‘’',   // Portuguese, Brazil
-  'pt-pl':   '«»“”',   // Portuguese, Portugal
+  'pt-BR':   '“”‘’',   // Portuguese, Brazil
+  'pt-PT':   '«»“”',   // Portuguese, Portugal
   'ro':      '„”«»',   // Romanian
   'ru':      '«»„“',   // Russian
   'sr':      '„”’’',   // Serbian

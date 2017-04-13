@@ -1,5 +1,7 @@
 # typographic-quotes-l10n-db
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/typographic-quotes-l10n-db.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][depstat-image]][depstat-url]
 [![DevDependency Status][depstat-dev-image]][depstat-dev-url]
